@@ -1,8 +1,10 @@
-Simple ES6 Example for Appcelerator.
+##Simple ES6 Example for Appcelerator.
 
-``ES6 Elements Used:
-- Fat arrow functions
-- Classes
-- Inheritance
-- Template Literals
+----------------------------------
+##ES6 Elements Used:
+
+* Fat arrow functions
+* Classes
+* Inheritance
+* Template Literals
 
